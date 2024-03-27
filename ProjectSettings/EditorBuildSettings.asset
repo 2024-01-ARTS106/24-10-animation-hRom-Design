@@ -15,9 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/02-BounceBall.unity
     guid: 188dd8f94a08da24e9f8a5b42b966bb0
   - enabled: 1
-    path: Assets/Scenes/03-Mixamo.unity
+    path: Assets/Scenes/04 - Timeline.unity
     guid: f7859049ac343f7408a05cb6df35b41a
   - enabled: 1
-    path: Assets/Scenes/04-Timeline.unity
+    path: Assets/Scenes/03 - Mixamo.unity
     guid: b491447bebfb8384a9b19feaa33d6739
   m_configObjects: {}
